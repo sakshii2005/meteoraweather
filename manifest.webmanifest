@@ -1,0 +1,11 @@
+@@ .. @@
+ {
+-  "name": "WeatherGlass - Beautiful Weather App",
+-  "short_name": "WeatherGlass",
++  "name": "Meteora - Beautiful Weather App",
++  "short_name": "Meteora",
+   "description": "A beautiful weather app with glassmorphism design and comprehensive weather information",
+@@ .. @@
+   "id": "weatherglass-app",
++  "id": "meteora-app",
+   "launch_handler": {
